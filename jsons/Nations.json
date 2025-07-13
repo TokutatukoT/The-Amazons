@@ -1,0 +1,31 @@
+[
+  {
+    "name": "The Amazons",
+		"leaderName": "Otrera",
+		"adjective": ["Amazonic"],
+		"startBias": ["Jungle", "Forest", "Hill"],
+		"preferredVictoryType": "Domination",
+		"personality": "Attila the Hun",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "I grow tired of this throne. I think I should like to have yours instead.",
+		"defeated": "My people will mourn me not with tears, but with human blood.",
+		"denounced": "Do you know who you're dealing with?",
+		"attacked": "Now what is this?! You ask me to add your riches to my great avails. The invitation is accepted.",
+		"introduction": "",
+		"neutralHello": "Good day to you.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "This is better than you deserve, but let it not be said that I am an unfair man.",
+
+        "outerColor": [180, 178, 164],
+        "innerColor": [70, 0, 4],
+
+        "favoredReligion": "Tengriism",
+		"uniqueName": "Scourge of God",
+		"uniques": ["[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast", "Starts with [Animal Husbandry]", "\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["Attila's Court"],
+        "spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
+  }
+]
