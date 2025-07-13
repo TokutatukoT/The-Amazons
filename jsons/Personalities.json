@@ -1,0 +1,36 @@
+[
+  {
+    {
+    "name": "Otrera",
+    "production": 6,
+    "food": 4,
+    "gold": 7,
+    "science": 3,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 5,
+    "military": 6,
+    "aggressive": 8,
+    "declareWar": 8,
+    "commerce": 6,
+    "diplomacy": 3,
+    "loyal": 4,
+    "expansion": 7,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 7,
+      "Honor": 9,
+      "Commerce": 7,
+      "Patronage": 3,
+      "Piety": 5,
+      "Rationalism": 3,
+      "Freedom": 5,
+      "Autocracy": 8,
+      "Order": 4
+    },
+    "civilopediaText": [
+      {
+        "text": ""
+      }
+  }
+]
