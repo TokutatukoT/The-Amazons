@@ -2,8 +2,8 @@
   {
     "name": "The Amazons",
 		"leaderName": "Otrera",
-		"adjective": ["Amazonic"],
-		"startBias": ["Jungle", "Forest", "Hill"],
+		"adjective": ["Amazonian"],
+		"startBias": ["Hill", "Forest", "Jungle"],
 		"preferredVictoryType": "Domination",
 		"personality": "Attila the Hun",
 
@@ -19,13 +19,31 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "This is better than you deserve, but let it not be said that I am an unfair man.",
 
-        "outerColor": [180, 178, 164],
-        "innerColor": [70, 0, 4],
+        "outerColor": [36, 36, 36],
+        "innerColor": [255, 127, 0],
 
         "favoredReligion": "Tengriism",
-		"uniqueName": "Scourge of God",
-		"uniques": ["[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast", "Starts with [Animal Husbandry]", "\"Borrows\" city names from other civilizations in the game"],
-		"cities": ["Attila's Court"],
-        "spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
+		"uniqueName": "The Legend of Amasons",
+		"uniques": [
+			"[+1 Production] from every [Pasture]",
+			"[+1 Food] from every [Camp]",
+			"[+1 Production] from every [Strategic resource]",
+			"[+100]% [Horses] resource production",
+			"No damage penalty for wounded units <for [Ranged] units>",
+			"No damage penalty for wounded units <for [Mounted] units>",
+			"[+50]% Strength <for [Ranged] units><vs [Land]>",
+			"[+50]% Strength <for [Mounted] units><vs [Land]>",
+			"[+2] Movement <for [Mounted] units>",
+			"[-50]% maintenance costs <for [Ranged] units>",
+			"[-50]% maintenance costs <for [Mounted] units>",
+			"When defeating a [{Barbarian} {Mounted}] unit, earn [25] Gold and recruit it <with [80]% chance>",
+			"When defeating a [Mounted] unit, earn [25] Gold and recruit it <with [40]% chance>",
+			"Great General provides double combat bonus",
+			"Starts with [Hunting]",
+			"Starts with [Animal Husbandry]",
+			"\"Borrows\" city names from other civilizations in the game"
+		],
+		"cities": ["Themiscyra", "Ephesos", "Cyme", "Smyrna","Sinope", "Myrina", "Magnesia", "Pygera"],
+        "spyNames": ["Agave", "Alke", "Dioxippe", "Euryale", "Glauce", "Lysippe", "Melanippe", "Menippe", "Molpadia", "Mytilene", "Xanthe"]
   }
 ]
