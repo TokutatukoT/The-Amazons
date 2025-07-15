@@ -3,12 +3,12 @@
     "name": "The Amazons",
 		"leaderName": "Otrera",
 		"adjective": ["Amazonian"],
-		"startBias": ["Hill", "Forest", "Jungle"],
+		"startBias": ["Hill", "Forest", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		"personality": "Attila the Hun",
 
-        "startIntroPart1": "",
-        "startIntroPart2": "",
+        "startIntroPart1": "Otrera, the founder and first Queen of the Amazons, is the consort of Ares, the god of war, as well as mother of Hippolyta, Antiope, Lysippa, Melanippa and Penthesilea. She is considered as the founder of the Temple of Artemis at Ephesus.",
+        "startIntroPart2": "O Otrera, leader of the Amazon, thou shalt overwhelm the world!",
 
         "declaringWar": "I grow tired of this throne. I think I should like to have yours instead.",
 		"defeated": "My people will mourn me not with tears, but with human blood.",
@@ -25,9 +25,8 @@
         "favoredReligion": "Tengriism",
 		"uniqueName": "The Legend of Amasons",
 		"uniques": [
-			"[+1 Production] from every [Pasture]",
-			"[+1 Food] from every [Camp]",
-			"[+1 Production] from every [Strategic resource]",
+			"[+100]% Yield from every [Pasture]",
+			"[+100]% Yield from every [Camp]",
 			"[+100]% [Horses] resource production",
 			"No damage penalty for wounded units <for [Ranged] units>",
 			"No damage penalty for wounded units <for [Mounted] units>",
