@@ -2,20 +2,21 @@
   {
     {
     "name": "Otrera",
+    "preferredVictoryType": "Domination",
     "production": 6,
-    "food": 6,
+    "food": 7,
     "gold": 4,
-    "science": 3,
-    "culture": 4,
+    "science": 4,
+    "culture": 2,
     "happiness": 7,
-    "faith": 5,
-    "military": 12,
-    "aggressive": 12,
-    "declareWar": 12,
-    "commerce": 6,
-    "diplomacy": 6,
+    "faith": 4,
+    "military": 10,
+    "aggressive": 10,
+    "declareWar": 10,
+    "commerce": 4,
+    "diplomacy": 3,
     "loyal": 7,
-    "expansion": 10,
+    "expansion": 9,
     "priorities": {
       "Tradition": 5,
       "Liberty": 7,
@@ -30,7 +31,7 @@
     },
     "civilopediaText": [
       {
-        "text": ""
+        "text": "The founder and first Queen of the Amazons, female warriors and hunters known for their physical agility, strength, archery, riding skills, the arts of combat and unique society."
       }
   }
 ]
