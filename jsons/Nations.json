@@ -36,7 +36,7 @@
 			"Starts with [Archery]", "Starts with [Animal Husbandry]", "Starts with [Honor] adopted",
 			"\"Borrows\" city names from other civilizations in the game"
 		],
-		"cities": ["Themiscyra", "Ephesos", "Cyme", "Smyrna","Sinope", "Myrina", "Magnesia", "Pygera", "Anaea"],
+		"cities": ["Themiscyra", "Ephesos", "Cyme", "Smyrna", "Sinope", "Myrina", "Magnesia", "Pygela", "Aretias", "Gryne", "Pitania", "Latoreria", "Lemnos", "Mytilene",  "Amastris", "Anaea"],
         "spyNames": ["Agave", "Alke", "Dioxippe", "Euryale", "Glauce", "Lysippe", "Melanippe", "Menippe", "Molpadia", "Mytilene", "Xanthe"]
   }
 ]
