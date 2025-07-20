@@ -2,7 +2,6 @@
   {
     {
     "name": "Otrera",
-    "preferredVictoryType": "Domination",
     "production": 6,
     "food": 7,
     "gold": 4,
