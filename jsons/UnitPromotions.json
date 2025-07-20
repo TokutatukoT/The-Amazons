@@ -1,7 +1,7 @@
 [
   {
     "name": "[Amazonian Warrior] ability",
-    "unique": [
+    "uniques": [
       "[+30]% Strength <vs [{Military} {Land}] units>", "No damage penalty for wounded units",
       "[1] additional attacks per turn", "[1] Movement", "[1] Sight", "Can move after attacking",
       "Earn [50]% of the damage done to [Land] units as [Faith]", "Earn [100]% of killed [Land] unit's [Strength] as [Faith]",
@@ -12,7 +12,7 @@
   },
   {
     "name": "Artemis' Blessing",
-    "unique": [
+    "uniques": [
       "[+30]% Strength <vs [{Military} {Land}] units>", "No damage penalty for wounded units",
       "[1] additional attacks per turn", "[1] Movement", "[1] Sight", "[1] Range", "Can move after attacking",
       "Earn [50]% of the damage done to [Land] units as [Faith]", "Earn [100]% of killed [Land] unit's [Strength] as [Faith]",
