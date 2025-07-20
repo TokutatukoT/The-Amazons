@@ -1,0 +1,23 @@
+[
+  {
+    "name": "[Amazon's Warrior] ability",
+    "unique": [
+      "[+30]% Strength <vs [{Military} {Land}] units>", "No damage penalty for wounded units",
+      "[1] additional attacks per turn", "[1] Movement", "[1] Sight", "Can move after attacking",
+      "Earn [100]% of the damage done to [Land] units as [Faith]", "Earn [50]% of killed [Land] unit's [Cost] as [Faith]",
+      "Heals [20] damage if it kills a unit",
+      "Ignores terrain cost",
+      "[+50]% XP gained from combat"
+    ]
+  },
+  {
+    "name": "Artemis' Blessing",
+    "unique": [
+      "[+30]% Strength <vs [{Military} {Land}] units>", "No damage penalty for wounded units",
+      "[1] additional attacks per turn", "[1] Movement", "[1] Sight", "[1] Range", "Can move after attacking",
+      "Earn [100]% of the damage done to [Land] units as [Faith]", "Earn [50]% of killed [Land] unit's [Cost] as [Faith]",
+      "Heals [20] damage if it kills a unit",
+      "[+50]% XP gained from combat"
+    ]
+  }
+]
