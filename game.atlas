@@ -1,19 +1,40 @@
 
 game.png
-size: 512, 256
+size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Archery Range
   rotate: false
-  xy: 4, 4
+  xy: 140, 82
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Amazons
   rotate: false
-  xy: 140, 4
+  xy: 412, 82
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Amazonian Warrior
+  rotate: false
+  xy: 4, 4
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+UnitIcons/Amazonian Warrior
+  rotate: false
+  xy: 4, 82
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Artemis' Blessing
+  rotate: false
+  xy: 276, 82
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
