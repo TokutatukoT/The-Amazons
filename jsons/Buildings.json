@@ -41,6 +41,10 @@
 	  	"happiness": 5,
     	  	"culture": 1,
 		"percentStatBonus": {"happiness": 50},
+		"uniques": [
+			"Consumes [1] [Horses]",
+			"[+1 Happiness] from [Horses] tiles [in this city]"
+		],
 		"requiredTech": "Horseback Riding"
 	}
 ]
