@@ -1,19 +1,34 @@
 [
-  {
-	  "name": "Archery Range",
-	  "replaces": "Barracks",
-	  "uniqueTo": "The Amazons",
-  	  "hurryCostModifier": 10,
-	  "cityStrength": 5,
-	  "happiness": 2,
-    	  "culture": 1,
-	  "uniques": [
-		  "New [Military] units start with [15] XP [in this city]",
-      		  "New [Ranged] units start with [30] XP [in this city]",
-      		  "[+50]% Production when constructing [Ranged] units [in this city]",
-		  "All newly-trained [Ranged] units [in this city] receive the [Artemis' Blessing] promotion"
-		  "Destroyed when the city is captured"
+	{
+		"name": "Archery Range",
+	  	"replaces": "Barracks",
+	  	"uniqueTo": "The Amazons",
+  	  	"hurryCostModifier": 10,
+	  	"cityStrength": 5,
+	  	"happiness": 2,
+    	  	"culture": 1,
+	  	"uniques": [
+			"New [Military] units start with [15] XP [in this city]",
+			"New [Ranged] units start with [30] XP [in this city]",
+      		  	"[+50]% Production when constructing [Ranged] units [in this city]",
+		  	"All newly-trained [Ranged] units [in this city] receive the [Artemis' Blessing] promotion",
+		  	"Destroyed when the city is captured"
 		],
-	  "requiredTech": "Archery"
-  }
+		"requiredTech": "Archery"
+	},
+	{
+		"name": "Large Stables of Horses",
+		"replaces": "Stable",
+	  	"uniqueTo": "The Amazons",
+		"hurryCostModifier": 10,
+	  	"happiness": 2,
+    	  	"culture": 1,
+		"uniques": [
+			"New [Mounted] units start with [30] XP [in this city]",
+			"[+50]% Production when constructing [Mounted] units [in this city]",
+			"All newly-trained [Mounted] units [in this city] receive the [Ares' Blessing] promotion",
+			"[+1 Production] from [Horses] tiles [in this city]"
+		],
+		"requiredTech": "Horseback Riding"
+	}
 ]

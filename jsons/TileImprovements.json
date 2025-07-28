@@ -1,0 +1,19 @@
+[
+  {
+	  "name": "Meadow",
+	  "uniqueTo": "The Amazons",
+	  "terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Flood plains","Forest"],
+	  "turnsToBuild": 2,
+	  "techRequired": "Animal Husbandry",
+	  "uniques": [
+		  "Can also be built on tiles adjacent to fresh water",
+		  "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
+		  "[+1 Food, +1 Production] for each adjacent [Pasture]",
+		  "[+1 Gold] for each adjacent [{Luxury} {Camp}]", "[+1 Food] for each adjacent [Camp]",
+		  "[+1 Production] from [Grassland] tiles", "[+1 Food] from [Plains] tiles", "[+1 Food, +1 Production] from [Tundra] tiles", "[+1 Food, +1 Production] from [Desert] tiles",
+		  "[+1 Food, +1 Production] for each adjacent [Meadow]",
+		  "[+1 Gold] <after discovering [Economics]>", "[+1 Food] <after discovering [Fertilizer]>",
+		  "Provides [1] [Horses] <in tiles adjacent to [{Horses} {Pasture}] tiles>"
+	  ],
+  }
+]
