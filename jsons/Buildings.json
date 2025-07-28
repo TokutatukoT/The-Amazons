@@ -27,8 +27,20 @@
 			"New [Mounted] units start with [30] XP [in this city]",
 			"[+50]% Production when constructing [Mounted] units [in this city]",
 			"All newly-trained [Mounted] units [in this city] receive the [Ares' Blessing] promotion",
-			"[+1 Production] from [Horses] tiles [in this city]"
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]",
+			"Provides [1] [Horses]"
 		],
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Racecourse",
+		"uniqueTo": "The Amazons",
+		"hurryCostModifier": 10,
+	  	"happiness": 5,
+    	  	"culture": 1,
+		"percentStatBonus": {"happiness": 50},
 		"requiredTech": "Horseback Riding"
 	}
 ]
