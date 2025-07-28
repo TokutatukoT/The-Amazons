@@ -2,9 +2,7 @@
   {
     "name": "[Amazonian Warrior] ability",
     "uniques": [
-      "[+30]% Strength <vs [{Military} {Land}] units>", "No damage penalty for wounded units",
-      "[1] additional attacks per turn", "[1] Movement", "[1] Sight", "Can move after attacking",
-      "Earn [50]% of the damage done to [Land] units as [Faith]", "Earn [100]% of killed [Land] unit's [Strength] as [Faith]",
+      "[+50]% Strength <vs [{Military} {Land}] units>",
       "Heals [20] damage if it kills a unit",
       "Ignores terrain cost",
       "[+50]% XP gained from combat"
@@ -13,9 +11,19 @@
   {
     "name": "Artemis' Blessing",
     "uniques": [
-      "[+30]% Strength <vs [{Military} {Land}] units>", "No damage penalty for wounded units",
+      "[+25]% Strength <vs [{Military} {Land}] units>", "No damage penalty for wounded units",
       "[1] additional attacks per turn", "[1] Movement", "[1] Sight", "[1] Range", "Can move after attacking",
-      "Earn [50]% of the damage done to [Land] units as [Faith]", "Earn [100]% of killed [Land] unit's [Strength] as [Faith]",
+      "Earn [10]% of the damage done to [Land] units as [Faith] <when religion is enabled>", "Earn [20]% of killed [Land] unit's [Strength] as [Faith] <when religion is enabled>",
+      "Heals [20] damage if it kills a unit",
+      "[+50]% XP gained from combat"
+    ]
+  },
+  {
+    "name": "Ares' Blessing",
+    "uniques": [
+      "[+25]% Strength <vs [{Military} {Land}] units>", "No damage penalty for wounded units",
+      "[2] additional attacks per turn", "[2] Movement", "[1] Sight", "Can move after attacking",
+      "Earn [10]% of the damage done to [Land] units as [Faith] <when religion is enabled>", "Earn [20]% of killed [Land] unit's [Strength] as [Faith] <when religion is enabled>",
       "Heals [20] damage if it kills a unit",
       "[+50]% XP gained from combat"
     ]
