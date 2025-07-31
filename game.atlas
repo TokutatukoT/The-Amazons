@@ -1,6 +1,6 @@
 
 game.png
-size: 1024, 256
+size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -11,51 +11,72 @@ BuildingIcons/Archery Range
   orig: 128, 128
   offset: 0, 0
   index: -1
-ImprovementIcons/Meadow
-  rotate: false
-  xy: 412, 93
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-NationIcons/The Amazons
+BuildingIcons/Large Stables of Horses
   rotate: false
   xy: 548, 93
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
+BuildingIcons/Racecourse
+  rotate: false
+  xy: 820, 93
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Meadow
+  rotate: false
+  xy: 684, 93
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Amazons
+  rotate: false
+  xy: 956, 93
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Amazonian Warrior
   rotate: false
-  xy: 107, 15
+  xy: 1195, 151
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Great General-The Amazons
+TileSets/AbsoluteUnits/Units/Archer-The Amazons
   rotate: false
   xy: 4, 4
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Great General-The Amazons
+  rotate: false
+  xy: 1092, 140
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Horseman-The Amazons
   rotate: false
-  xy: 787, 151
+  xy: 210, 15
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warrior-The Amazons
   rotate: false
-  xy: 684, 140
+  xy: 107, 4
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Meadow
   rotate: false
-  xy: 192, 29
+  xy: 1280, 165
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -67,9 +88,16 @@ UnitIcons/Amazonian Warrior
   orig: 128, 128
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Artemis' Blessing
+UnitPromotionIcons/Ares' Blessing
   rotate: false
   xy: 276, 93
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Artemis' Blessing
+  rotate: false
+  xy: 412, 93
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
