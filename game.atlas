@@ -41,7 +41,7 @@ NationIcons/The Amazons
   index: -1
 TileSets/AbsoluteUnits/Units/Amazonian Warrior
   rotate: false
-  xy: 1195, 151
+  xy: 313, 15
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
@@ -53,30 +53,51 @@ TileSets/AbsoluteUnits/Units/Archer-The Amazons
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Great General-The Amazons
+TileSets/AbsoluteUnits/Units/Composite Bowman-The Amazons
   rotate: false
   xy: 1092, 140
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Horseman-The Amazons
-  rotate: false
-  xy: 210, 15
-  size: 77, 70
-  orig: 77, 70
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Warrior-The Amazons
+TileSets/AbsoluteUnits/Units/Great General-The Amazons
   rotate: false
   xy: 107, 4
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Horseman-The Amazons
+  rotate: false
+  xy: 1401, 151
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Spearman-The Amazons
+  rotate: false
+  xy: 1195, 140
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Swordsman-The Amazons
+  rotate: false
+  xy: 210, 4
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Warrior-The Amazons
+  rotate: false
+  xy: 1298, 140
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Meadow
   rotate: false
-  xy: 1280, 165
+  xy: 398, 29
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
