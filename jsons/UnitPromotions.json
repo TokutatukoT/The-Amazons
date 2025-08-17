@@ -2,8 +2,7 @@
   {
     "name": "[Amazonian Warrior] ability",
     "uniques": [
-      "[+50]% Strength <vs [{Military} {Land}] units>",
-      "Heals [20] damage if it kills a unit",
+      "[+10]% Strength <vs [{Military} {Land}] units>",
       "Ignores terrain cost",
       "[+50]% XP gained from combat"
     ]
@@ -11,21 +10,26 @@
   {
     "name": "Artemis' Blessing",
     "uniques": [
-      "[+25]% Strength <vs [{Military} {Land}] units>", "No damage penalty for wounded units",
+      "[+10]% Strength <vs [{Military} {Land}] units>",
       "[1] additional attacks per turn", "[1] Movement", "[1] Sight", "[1] Range", "Can move after attacking",
-      "Earn [10]% of the damage done to [Land] units as [Faith] <when religion is enabled>", "Earn [20]% of killed [Land] unit's [Strength] as [Faith] <when religion is enabled>",
-      "Heals [20] damage if it kills a unit",
-      "[+50]% XP gained from combat"
+      "Earn [20]% of the damage done to [Land] units as [Faith] <when religion is enabled>", "Earn [20]% of killed [Land] unit's [Strength] as [Faith] <when religion is enabled>"
     ]
   },
   {
     "name": "Ares' Blessing",
     "uniques": [
-      "[+25]% Strength <vs [{Military} {Land}] units>", "No damage penalty for wounded units",
-      "[2] additional attacks per turn", "[2] Movement", "[1] Sight", "Can move after attacking", "Double movement in [Horses]",
-      "Earn [10]% of the damage done to [Land] units as [Faith] <when religion is enabled>", "Earn [20]% of killed [Land] unit's [Strength] as [Faith] <when religion is enabled>",
-      "Heals [20] damage if it kills a unit",
+      "[+10]% Strength <vs [{Military} {Land}] units>", "[+20]% Strength <vs [{Barbarian} {Land}] units>",
+      "[1] additional attacks per turn", "[1] Movement", "[1] Sight", "Can move after attacking",
+      "Earn [20]% of the damage done to [Land] units as [Faith] <when religion is enabled>", "Earn [20]% of killed [Land] unit's [Strength] as [Faith] <when religion is enabled>",
       "[+50] % XP gained from combat"
+    ]
+  },
+  {
+    "name": "We Love Horse",
+    "uniques": [
+      "[+10]% Strength <vs [{Military} {Land}] units>",
+      "[1] additional attacks per turn", "[2] Movement", "[1] Sight", "Can move after attacking", "Double movement in [Horses]",
+      "Unit will heal every turn, even if it performs an action <in [Meadow] tiles>"
     ]
   }
 ]
