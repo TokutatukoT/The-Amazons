@@ -1,18 +1,35 @@
 [
-  {
-	  "name": "Amazonian Warrior",
-	  "unitType": "Archery",
-	  "uniqueTo": "The Amazons",
-	  "replaces": "Chariot Archer",
-	  "movement": 5,
-  	  "strength": 10,
-	  "rangedStrength": 10,
-	  "cost": 50,
-	  "requiredTech": "The Wheel",
-	  "upgradesTo": "Knight",
-	  "obsoleteTech": "Chivalry",
-	  "uniques": ["No defensive terrain bonus"],
-	  "promotions": ["[Amazonian Warrior] ability"],
-	  "attackSound": "arrow"
-  }
+	{
+		"name": "Amazonian Warrior",
+		"unitType": "Archery",
+		"uniqueTo": "The Amazons",
+		"replaces": "Chariot Archer",
+		"movement": 5,
+  		"strength": 10,
+		"rangedStrength": 10,
+		"cost": 50,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus"],
+		"promotions": ["[Amazonian Warrior] ability"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Daughter of Ares",
+		"unitType": "Civilian",
+		"uniqueTo": "The Amazons",
+		"replaces": "Great General",
+		"uniques": [
+			"Empire enters golden age",
+			"[+25]% Strength bonus for [Military] units within [3] tiles",
+			"All adjacent units heal [+15] HP when healing", "[+15] HP when healing",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"[+3] Sight", "Can see over obstacles", "Ignores terrain cost",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"
+		],
+		"movement": 5
+	}
 ]
