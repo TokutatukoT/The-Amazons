@@ -1,2 +1,2 @@
 # The-Amazons
-Unciv mod
+Unciv mod based on greek myth.
