@@ -41,7 +41,7 @@ NationIcons/The Amazons
   index: -1
 TileSets/AbsoluteUnits/Units/Amazonian Warrior
   rotate: false
-  xy: 313, 15
+  xy: 1537, 151
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
@@ -55,12 +55,12 @@ TileSets/AbsoluteUnits/Units/Archer-The Amazons
   index: -1
 TileSets/AbsoluteUnits/Units/Composite Bowman-The Amazons
   rotate: false
-  xy: 1092, 140
+  xy: 1228, 140
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Great General-The Amazons
+TileSets/AbsoluteUnits/Units/Daughter of Ares
   rotate: false
   xy: 107, 4
   size: 95, 81
@@ -69,35 +69,42 @@ TileSets/AbsoluteUnits/Units/Great General-The Amazons
   index: -1
 TileSets/AbsoluteUnits/Units/Horseman-The Amazons
   rotate: false
-  xy: 1401, 151
+  xy: 416, 15
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Spearman-The Amazons
+TileSets/AbsoluteUnits/Units/Pikeman-The Amazons
   rotate: false
-  xy: 1195, 140
+  xy: 1331, 140
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Swordsman-The Amazons
+TileSets/AbsoluteUnits/Units/Spearman-The Amazons
   rotate: false
   xy: 210, 4
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Swordsman-The Amazons
+  rotate: false
+  xy: 1434, 140
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Warrior-The Amazons
   rotate: false
-  xy: 1298, 140
+  xy: 313, 4
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Meadow
   rotate: false
-  xy: 398, 29
+  xy: 1622, 165
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -119,6 +126,13 @@ UnitPromotionIcons/Ares' Blessing
 UnitPromotionIcons/Artemis' Blessing
   rotate: false
   xy: 412, 93
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/We Love Horse
+  rotate: false
+  xy: 1092, 93
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
