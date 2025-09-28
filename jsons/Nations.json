@@ -7,7 +7,7 @@
 	  "preferredVictoryType": "Domination",
 	  "personality": "Otrera",
 
-          "startIntroPart1": "Otrera is the founder and first Queen of the Amazons, female warriors and hunters known for their physical agility, strength, archery, riding skills, and the arts of combat. She is the consort of Ares, the god of war, as well as mother of Hippolyta, Antiope, Lysippa, Melanippa and Penthesilea. She is also considered as the founder of the Temple of Artemis at Ephesus.",
+          "startIntroPart1": "Otrera is the founder and first Queen of the Amazons, female warriors and hunters known for their physical agility, strength, archery, riding skills, and the arts of combat. She is the consort of Ares, the god of war, as well as mother of Hippolyta, Antiope, and Penthesilea. She is also considered as the founder of the Temple of Artemis at Ephesus.",
           "startIntroPart2": "O Otrera, leader of the Amazons, thou shalt overwhelm the world!",
 
           "declaringWar": "We Amazons will wage war to raze your country.",
@@ -23,23 +23,25 @@
           "innerColor": [255, 127, 0],
 
         "favoredReligion": "Tengriism",
-		"uniqueName": "The Legend of Amasons",
+		"uniqueName": "Combative, Horse-Loving Women",
 		"uniques": [
-			"[+50]% Yield from every [Forest]", "[+1 Culture, +1 Happiness] from every [Forest]",
 			"[+1 Food, +1 Culture, +2 Happiness] from every [Pasture]", "[+1 Production, +1 Culture, +2 Happiness] from every [Camp]",
-			"[+100]% [Horses] resource production",
-			"[-50]% construction time for [Pasture] improvements", "[-50]% construction time for [Camp] improvements",
+			"Provides [1] [Horses] <with [1] to [2] neighboring [Meadow] tiles>", "Provides [2] [Horses] <with [3] to [4] neighboring [Meadow] tiles>", "Provides [3] [Horses] <with [5] to [6] neighboring [Meadow] tiles>",
+			"[-75]% construction time for [Pasture] improvements", "[-75]% construction time for [Camp] improvements",
+			"No Maintenance costs for improvements in [Meadow] tiles",
 			"[+900]% Production when constructing [Temple of Artemis] wonders [in all cities]",
 			"May buy [Archery Range] buildings with [Culture] for [5] times their normal Production cost <if [Temple of Artemis] is constructed>",
 			"May buy [Armory] buildings with [Culture] for [5] times their normal Production cost <if [Temple of Artemis] is constructed>",
 			"May buy [Military Academy] buildings with [Culture] for [5] times their normal Production cost <if [Temple of Artemis] is constructed>",
-			"[-25]% maintenance costs <for [Ranged] units>", "[-25]% maintenance costs <for [Mounted] units>",
-			"[+50]% Production when constructing [Ranged] units [in all cities]", "[+50]% Production when constructing [Mounted] units [in all cities]",
-			"[-50]% XP required for promotions",
+			"[-50]% maintenance costs <for [Ranged] units>", "[-50]% maintenance costs <for [Mounted] units>",
+			"[+75]% Production when constructing [Ranged] units [in all cities]", "[+75]% Production when constructing [Mounted] units [in all cities]",
+			"When conquering an encampment, earn [50] Gold and recruit a Barbarian unit <after adopting [Honor Complete]>",
+			"Upon capturing a city, receive [10] times its [Culture] production as [Happiness] immediately <after adopting [Autocracy]>",
+			"[25]% Strength <after adopting [Autocracy Complete]>", "[2] Movement <after adopting [Autocracy Complete]>",
 			"Starts with [Archery]", "Starts with [Animal Husbandry]", "Starts with [Honor] adopted",
 			"\"Borrows\" city names from other civilizations in the game"
 		],
-		"cities": ["Themiscyra", "Ephesos", "Cyme", "Smyrna", "Sinope", "Myrina", "Magnesia", "Pygela", "Aretias", "Gryne", "Pitania", "Latoreria", "Lemnos", "Mytilene",  "Amastris", "Anaea"],
+		"cities": ["Themiscyra", "Ephesus", "Cyme", "Smyrna", "Sinope", "Myrina", "Magnesia", "Pygela", "Aretias", "Gryne", "Pitane", "Latoreria", "Lemnos", "Mytilene",  "Amastris", "Anaea"],
         "spyNames": ["Agave", "Alke", "Dioxippe", "Euryale", "Glauce", "Lysippe", "Melanippe", "Menippe", "Molpadia", "Mytilene", "Xanthe"]
   }
 ]

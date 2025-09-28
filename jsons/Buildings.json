@@ -3,14 +3,15 @@
 		"name": "Archery Range",
 	  	"replaces": "Barracks",
 	  	"uniqueTo": "The Amazons",
-  	  	"hurryCostModifier": 10,
+		"maintenance": 1,
 	  	"cityStrength": 5,
 	  	"happiness": 2,
-    	  	"culture": 1,
+    	"culture": 1,
+		"cost": 30,
 	  	"uniques": [
 			"New [Military] units start with [15] XP [in this city]",
 			"New [Ranged] units start with [30] XP [in this city]",
-      		  	"[+50]% Production when constructing [Ranged] units [in this city]",
+      		"[+50]% Production when constructing [Ranged] units [in this city]",
 		  	"All newly-trained [Ranged] units [in this city] receive the [Artemis' Blessing] promotion",
 		  	"Destroyed when the city is captured"
 		],
@@ -18,18 +19,16 @@
 	},
 	{
 		"name": "Large Stables of Horses",
-		"replaces": "Stable",
 	  	"uniqueTo": "The Amazons",
-		"hurryCostModifier": 10,
+		"maintenance": 1,
 	  	"happiness": 2,
-    	  	"culture": 1,
+    	"culture": 1,
+		"cost": 50,
 		"uniques": [
 			"New [Mounted] units start with [30] XP [in this city]",
 			"[+50]% Production when constructing [Mounted] units [in this city]",
-			"All newly-trained [Mounted] units [in this city] receive the [Ares' Blessing] promotion",
-			"[+1 Production] from [Cattle] tiles [in this city]",
+			"All newly-trained [Mounted] units [in this city] receive the [We Love Horse] promotion",
 			"[+1 Production] from [Horses] tiles [in this city]",
-			"[+1 Production] from [Sheep] tiles [in this city]",
 			"Provides [1] [Horses]"
 		],
 		"requiredTech": "Horseback Riding"
@@ -37,12 +36,13 @@
 	{
 		"name": "Racecourse",
 		"uniqueTo": "The Amazons",
-		"hurryCostModifier": 10,
-	  	"happiness": 5,
-    	  	"culture": 1,
-		"percentStatBonus": {"happiness": 50},
+	  	"happiness": 3,
+    	"culture": 1,
+		"percentStatBonus": {"happiness": 20},
+		"cost": 50,
+		"requiredResource": "Horses",
 		"uniques": [
-			"Consumes [1] [Horses]",
+			"[+1 Gold] per [3] population [in this city]", "[+1 Gold] per [2] population [in this city] <after discovering [Economy]>",
 			"[+1 Happiness] from [Horses] tiles [in this city]"
 		],
 		"requiredTech": "Horseback Riding"
